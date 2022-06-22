@@ -1,0 +1,4 @@
+123546,LG,Television M156,800
+759603,Apple,Iphone 11 Pro Max,1200
+756662,Samsung,A50 smartphone,450
+523680,Tefal,Opti Grill 125N,300
